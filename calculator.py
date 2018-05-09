@@ -1,12 +1,3 @@
-"""
-Simple command-line tool for predicting the amount of Bitcoin your device
-can mine in the next 24hrs.
-
-This was the first Python script I ever wrote (back when I was 15). I've
-updated it to support Python 3.
-"""
-
-
 import sys
 import requests
 
